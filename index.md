@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <!-- saved from url=(0066)https://openxyz.github.io/web_front_code/resume/01-html/index.html -->
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<title>某人简历</title>
