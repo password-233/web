@@ -1,37 +1,68 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<!-- saved from url=(0066)https://openxyz.github.io/web_front_code/resume/01-html/index.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<title>某人简历</title>
+	<link rel="stylesheet" href="123.css">
+</head>
+<body>
 
-You can use the [editor on GitHub](https://github.com/password-233/web/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<div id="page">
+	<section id="basic">
+		<h2>基本信息</h2>
+		<ul>
+			<li><span class="header">姓名：</span>明天六级更香</li>
+			<li><span class="header">性别：</span>男</li>
+			<li><span class="header">出生年月：</span>1995</li>
+			<li><span class="header">籍贯：</span>火星</li>
+			<li><span class="header">政治面貌：</span>江北黑恶势力</li>
+		</ul>
 
-### Markdown
+	</section>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+	<section id="intro">
+		<h2>给他介绍</h2>
 
-```markdown
-Syntax highlighted code block
+		<p>他爱六级考试，更爱四大名著
+		</p>
+	</section>
 
-# Header 1
-## Header 2
-### Header 3
+	<section id="education">
+		<h2>他的特长</h2>
+		<table>
+			<tbody>
+				<tr>
+					<td>吃</td>
+					<td>123</td>
+				</tr>
+				<tr>
+					<td>拿</td>
+					<td>123</td>
+				</tr>
+				<tr>
+					<td>卡</td>
+					<td>123</td>
+				</tr>
+				<tr>
+					<td>要</td>
+					<td>123</td>
+				</tr>
 
-- Bulleted
-- List
+			</tbody>
+		</table>
+	</section>
 
-1. Numbered
-2. List
+	<section id="code">
+		<h2>任职风采</h2>
+		<p>
+			<img src="城管.jpg" width="300" height="200" />
+		</p>
+		<pre>        
+		</pre>
+	</section>
+	<section>
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+</div>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/password-233/web/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
