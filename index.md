@@ -1,7 +1,15 @@
 <!-- saved from url=(0066)https://openxyz.github.io/web_front_code/resume/01-html/index.html -->
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<title>某人简历</title>
-	<link rel="stylesheet" href="123.css">
+	<style>
+				body{ 
+			    background: url("专业团队.jpg") no-repeat;
+			    height:100%;
+			    width:100%;
+			    overflow: hidden;
+			    background-size:cover;
+			  }
+	</style>
 </head>
 <body>
 
